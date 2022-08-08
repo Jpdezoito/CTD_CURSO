@@ -1,0 +1,8 @@
+para criar arquivos você usa touch
+para remover arquivos você usa rm 
+para remover pasta vazios você usa rmdir
+para criar pasta você usa mkdir
+para verificar o que está na pasta você usa ls
+para criar e editar você usa o nano
+pwd é para ver em qual pasta você está
+
