@@ -6,3 +6,4 @@ para verificar o que está na pasta você usa ls
 para criar e editar você usa o nano
 pwd é para ver em qual pasta você está
 
+git status
